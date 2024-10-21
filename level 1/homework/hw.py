@@ -10,5 +10,5 @@ age=22#eეს არის int მთლი რიცხვი
 height = 184.5#ეს არის float ტიპის ცვლადი ( ათწილადი )
 #boolean(bool)ტიპის ცვლადი
 know_programming=True #true ან False
-is_ugly = false
+is_ugly = False
 isugly = False
